@@ -1,0 +1,4 @@
+import numpy as np
+import matplot11b.pyplot as plt
+Smatplotlib inline
+plt.plot(*np.random.randn(2,1000))
